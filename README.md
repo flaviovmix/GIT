@@ -41,11 +41,6 @@
 
 name: Generate Datas
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
