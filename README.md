@@ -40,13 +40,5 @@
 ![Snake animation](https://github.com/flaviovmix/flaviovmix/blob/output/github-contribution-grid-snake.svg)
 
 name: Generate Datas
-
-
-          target_branch: output
-          build_dir: disttarget_branch: output
-          build_dir: disttarget_branch: output
-          build_dir: disttarget_branch: output
-          build_dir: disttarget_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+sfsa
+         asdfasdf
