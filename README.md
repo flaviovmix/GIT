@@ -37,8 +37,6 @@
 </div>
 
 
-![Snake animation](https://github.com/flaviovmix/blob/output/github-contribution-grid-snake.svg)
-
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
