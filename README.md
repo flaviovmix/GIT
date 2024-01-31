@@ -41,8 +41,7 @@
 
 name: Generate Datas
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
+
           target_branch: output
           build_dir: disttarget_branch: output
           build_dir: disttarget_branch: output
